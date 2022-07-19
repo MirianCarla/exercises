@@ -1,0 +1,31 @@
+
+body {
+    background-color: aqua;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+
+}
+
+
+
+
+ul {
+    display: flex;
+   
+}
+
+li {
+    margin-left: 30px;
+}
+ 
+
+.texto {
+    display: flex;
+    margin-left: 0px;
+    justify-content: center;
+    text-align: justify;
+    
+}
+.texto li {
+    width: 450px;
+}
